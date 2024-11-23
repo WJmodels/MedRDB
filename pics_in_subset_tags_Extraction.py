@@ -119,6 +119,6 @@ def process_images_and_save_results(image_directory, results_directory):
     print('Finished processing and saving all data to JSON.')
 
 # 使用函数
-image_directory = "image_directory"
-results_directory = "results_directory"
+image_directory = "image_folder"
+results_directory = "results_folder"
 process_images_and_save_results(image_directory, results_directory)

@@ -1,0 +1,10 @@
+{"filename": "Zepatier (Elbasvir Merck)---/步骤1", "reactants": ["OC(=O)Cc1cc(Br)ccc1Br"], "products": ["O=C(Cc1cc(Br)ccc1Br)Oc1cccc(Br)c1"]}
+{"filename": "Zepatier (Elbasvir Merck)---/步骤2", "reactants": ["O=C(Cc1cc(Br)ccc1Br)Oc1cccc(Br)c1"], "products": ["Oc1cc(Br)ccc1C(=O)Cc1cc(Br)ccc1Br"]}
+{"filename": "Zepatier (Elbasvir Merck)---/步骤3", "reactants": ["Oc1cc(Br)ccc1C(=O)Cc1cc(Br)ccc1Br"], "products": ["N=C(Cc1cc(Br)ccc1Br)c1ccc(Br)cc1O"]}
+{"filename": "Zepatier (Elbasvir Merck)---/步骤4", "reactants": ["N=C(Cc1cc(Br)ccc1Br)c1ccc(Br)cc1O"], "products": ["N[C@H](Cc1cc(Br)ccc1Br)c1ccc(Br)cc1O"]}
+{"filename": "Zepatier (Elbasvir Merck)---/步骤5", "reactants": ["N[C@H](Cc1cc(Br)ccc1Br)c1ccc(Br)cc1O"], "products": ["Oc1cc(Br)ccc1[C@H]1Cc2cc(Br)ccc2N1"]}
+{"filename": "Zepatier (Elbasvir Merck)---/步骤6", "reactants": ["Oc1cc(Br)ccc1[C@H]1Cc2cc(Br)ccc2N1"], "products": ["Brc1ccc2c(c1)C[C@@H]1c3ccc(Br)cc3O[C@@H](c3ccccc3)N21"]}
+{"filename": "Zepatier (Elbasvir Merck)---/步骤7", "reactants": ["Brc1ccc2c(c1)C[C@@H]1c3ccc(Br)cc3O[C@@H](c3ccccc3)N21"], "products": ["CC1(C)OB(c2ccc3c(c2)C[C@@H]2c4ccc(B5OC(C)(C)C(C)(C)O5)cc4O[C@@H](c4ccccc4)N32)OC1(C)C"]}
+{"filename": "Zepatier (Elbasvir Merck)---/步骤8", "reactants": ["CC1(C)OB(c2ccc3c(c2)C[C@@H]2c4ccc(B5OC(C)(C)C(C)(C)O5)cc4O[C@@H](c4ccccc4)N32)OC1(C)C"], "products": ["CC(C)(C)OC(=O)N1CCC[C@H]1c1nc(-c2ccc3c(c2)O[C@@H](c2ccccc2)n2c-3cc3cc(-c4c[nH]c([C@@H]5CCCN5C(=O)OC(C)(C)C)n4)ccc32)c[nH]1"]}
+{"filename": "Zepatier (Elbasvir Merck)---/步骤9", "reactants": ["CC(C)(C)OC(=O)N1CCCC1C1=NC(C2=CC3=C(C=C2)C2=CC45=CC6(C7=CNC(C8CCCN8C(=O)OC(C)(C)C)=N7)=CC7=C489=C(=C758N29C(C2=CC=CC=C2)O3)C=6)=CN1"], "products": ["c1ccc([C@@H]2Oc3cc(-c4c[nH]c([C@@H]5CCCN5)n4)ccc3-c3cc4cc(-c5c[nH]c([C@@H]6CCCN6)n5)ccc4n32)cc1"]}
+{"filename": "Zepatier (Elbasvir Merck)---/步骤10", "reactants": ["c1ccc([C@@H]2Oc3cc(-c4c[nH]c([C@@H]5CCCN5)n4)ccc3-c3cc4cc(-c5c[nH]c([C@@H]6CCCN6)n5)ccc4n32)cc1"], "products": ["COC(=O)NC(C(=O)N1CCCC1C1=NC(C2=CC3=C(C=C2)C24C=C56C=C(C7=CNC(C8CCCN8C(=O)C(NC(=O)OC)C(C)C)=N7)C=C7=C589C2=C768N49C(C2=CC=CC=C2)O3)=CN1)C(C)C"]}

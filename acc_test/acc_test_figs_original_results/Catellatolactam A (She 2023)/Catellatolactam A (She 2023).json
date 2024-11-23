@@ -1,0 +1,13 @@
+{"filename": "Catellatolactam A (She 2023)/step 1", "reactants": ["OC(=O)c1cc(O)cc([N+](=O)[O-])c1"], "products": ["COC(=O)c1cc(O)cc([N+](=O)[O-])c1"]}
+{"filename": "Catellatolactam A (She 2023)/step 2", "reactants": ["COC(=O)c1cc(O)cc([N+](=O)[O-])c1"], "products": ["COC(=O)c1cc(N)cc(O)c1"]}
+{"filename": "Catellatolactam A (She 2023)/step 3", "reactants": ["COC(=O)c1cc(N)cc(O)c1"], "products": ["COC(=O)c1cc(O)cc(NC(=O)OC(C)(C)C)c1"]}
+{"filename": "Catellatolactam A (She 2023)/step 4", "reactants": ["COC(=O)c1cc(O)cc(NC(=O)OC(C)(C)C)c1"], "products": ["*c1cc(NC(=O)OC(C)(C)C)cc(C(=O)OC)c1"]}
+{"filename": "Catellatolactam A (She 2023)/step 5", "reactants": ["*c1cc(NC(=O)OC(C)(C)C)cc(C(=O)OC)c1"], "products": ["*c1cc(CO)cc(NC(=O)OC(C)(C)C)c1"]}
+{"filename": "Catellatolactam A (She 2023)/step 6", "reactants": ["*c1cc(CO)cc(NC(=O)OC(C)(C)C)c1"], "products": ["*c1cc(CI)cc(NC(=O)OC(C)(C)C)c1"]}
+{"filename": "Catellatolactam A (She 2023)/step 7", "reactants": ["*c1cc(CI)cc(NC(=O)OC(C)(C)C)c1"], "products": ["*c1cc(CCC=C)cc(NC(=O)OC(C)(C)C)c1"]}
+{"filename": "Catellatolactam A (She 2023)/step 8", "reactants": ["*c1cc(CCC=C)cc(NC(=O)OC(C)(C)C)c1"], "products": ["*c1cc(N)cc(CCC=C)c1"]}
+{"filename": "Catellatolactam A (She 2023)/step 9", "reactants": ["*c1cc(N)cc(CCC=C)c1"], "products": ["*c1cc(CCC=C)cc(NCc2ccc(OC)cc2OC)c1"]}
+{"filename": "Catellatolactam A (She 2023)/step 10", "reactants": ["*c1cc(CCC=C)cc(NCc2ccc(OC)cc2OC)c1"], "products": ["*c1cc(CCC=C)cc(N(Cc2ccc(OC)cc2OC)C(=O)CC(=O)CCC=C)c1"]}
+{"filename": "Catellatolactam A (She 2023)/step 11", "reactants": ["*c1cc(CCC=C)cc(N(Cc2ccc(OC)cc2OC)C(=O)CC(=O)CCC=C)c1"], "products": ["*c1cc2cc(c1)N(Cc1ccc(OC)cc1OC)C(=O)CC(=O)CC/C=C/CC2"]}
+{"filename": "Catellatolactam A (She 2023)/step 12", "reactants": ["*c1cc2cc(c1)N(Cc1ccc(OC)cc1OC)C(=O)CC(=O)CC/C=C/CC2"], "products": ["*c1cc2cc(c1)NC(=O)CC(=O)CC/C=C/CC2"]}
+{"filename": "Catellatolactam A (She 2023)/step 13", "reactants": ["*c1cc2cc(c1)NC(=O)CC(=O)CC/C=C/CC2"], "products": ["Oc1cc2cc(c1)NC(=O)CC(=O)CC/C=C/CC2"]}

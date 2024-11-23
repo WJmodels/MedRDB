@@ -1,5 +1,0 @@
-{"filename": "Yaequinolone J1 (Christmann 2020)---Christmann/步骤1", "reactants": ["Oc1cccc(O)c1Br"], "products": ["CC(C)=CCCC1(C)C=Cc2ccc(O)c(Br)c2O1"]}
-{"filename": "Yaequinolone J1 (Christmann 2020)---Christmann/步骤2", "reactants": ["CC(C)=CCCC1(C)C=Cc2ccc(O)c(Br)c2O1"], "products": ["CC(C)=CCCC1(C)C=Cc2ccc(O)c([Si](C)(C)C)c2O1"]}
-{"filename": "Yaequinolone J1 (Christmann 2020)---Christmann/步骤3", "reactants": ["CC(C)=CCCC1(C)C=Cc2ccc(O)c([Si](C)(C)C)c2O1"], "products": ["CC(C)=CCCC1(C)C=Cc2ccc(OS(=O)(=O)C(F)(F)F)c([Si](C)(C)C)c2O1"]}
-{"filename": "Yaequinolone J1 (Christmann 2020)---Christmann/步骤4", "reactants": ["CC(C)=CCCC1(C)C=Cc2ccc(OS(=O)(=O)C(F)(F)F)c([Si](C)(C)C)c2O1"], "products": ["COCC(=O)Nc1ccc2c(c1C(=O)c1ccc(OC)cc1)OC(C)(CCC=C(C)C)C=C2"]}
-{"filename": "Yaequinolone J1 (Christmann 2020)---Christmann/步骤5", "reactants": ["COCC(=O)Nc1ccc2c(c1C(=O)c1ccc(OC)cc1)OC(C)(CCC=C(C)C)C=C2"], "products": ["COc1ccc([C@]2(O)c3c(ccc4c3O[C@](C)(CCC=C(C)C)C=C4)NC(=O)[C@H]2OC)cc1"]}

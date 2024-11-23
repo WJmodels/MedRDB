@@ -1,9 +1,0 @@
-{"filename": "Zemiglo (Gemigliptin LG)---/步骤1", "reactants": ["CC(C)(C)C[C@H](NC(=O)OC(C)(C)C)C(=O)O"], "products": ["CC(C)(C)C[C@H](NC(=O)OC(C)(C)C)C(N)=O"]}
-{"filename": "Zemiglo (Gemigliptin LG)---/步骤2", "reactants": ["CC(C)(C)C[C@H](NC(=O)OC(C)(C)C)C(N)=O"], "products": ["CC(C)(C)OC(=O)N[C@H](C#N)CC(=O)O"]}
-{"filename": "Zemiglo (Gemigliptin LG)---/步骤3", "reactants": ["CC(C)(C)OC(=O)N[C@H](C#N)CC(=O)O"], "products": ["CC(C)(C)OC(=O)N[C@H](CN)CC(=O)O"]}
-{"filename": "Zemiglo (Gemigliptin LG)---/步骤4", "reactants": ["CC(C)(C)OC(=O)N[C@H](CN)CC(=O)O"], "products": ["CC(C)(C)C[C@@H](CN1CC(F)(F)CCC1=O)NC(=O)OC(C)(C)C"]}
-{"filename": "Zemiglo (Gemigliptin LG)---/步骤5", "reactants": ["CC(C)(C)C[C@@H](CN1CC(F)(F)CCC1=O)NC(=O)OC(C)(C)C"], "products": ["N[C@@H](CC(=O)O)CN1CC(F)(F)CCC1=O"]}
-{"filename": "Zemiglo (Gemigliptin LG)---/步骤6", "reactants": ["N[C@@H](CC(=O)O)CN1CC(F)(F)CCC1=O"], "products": ["CC(C)(C)OC(=O)N[C@@H](CC(=O)O)CN1CC(F)(F)CCC1=O"]}
-{"filename": "Zemiglo (Gemigliptin LG)---/步骤7", "reactants": ["CC(C)(C)OC(=O)N[C@@H](CC(=O)O)CN1CC(F)(F)CCC1=O"], "products": ["CC(C)(C)OC(=O)N[C@@H](CC(=O)N1CCc2c(nc(C(F)(F)F)nc2C(F)(F)F)C1)CC1CC(F)(F)CCC1=O"]}
-{"filename": "Zemiglo (Gemigliptin LG)---/步骤8", "reactants": ["CC(C)(C)OC(=O)N[C@@H](CC(=O)N1CCc2c(nc(C(F)(F)F)nc2C(F)(F)F)C1)CC1CC(F)(F)CCC1=O"], "products": ["N[C@@H](CC(=O)N1CCc2c(nc(C(F)(F)F)nc2C(F)(F)F)C1)CC1CC(F)(F)CCC1=O"]}
-{"filename": "Zemiglo (Gemigliptin LG)---/步骤9", "reactants": ["N[C@@H](CC(=O)N1CCc2c(nc(C(F)(F)F)nc2C(F)(F)F)C1)CC1CC(F)(F)CCC1=O"], "products": ["N[C@@H](CC(=O)N1CCc2c(nc(C(F)(F)F)nc2C(F)(F)F)C1)CC1CC(F)(F)CCC1=O"]}

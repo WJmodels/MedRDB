@@ -1,5 +1,0 @@
-{"filename": "Zelboraf (Vemurafenib Plexxikon)---/步骤1", "reactants": ["Nc1ccc(Br)cn1"], "products": ["Nc1ccc(-c2ccc(Cl)cc2)cn1"]}
-{"filename": "Zelboraf (Vemurafenib Plexxikon)---/步骤2", "reactants": ["Nc1ccc(-c2ccc(Cl)cc2)cn1"], "products": ["Nc1ncc(-c2ccc(Cl)cc2)cc1I"]}
-{"filename": "Zelboraf (Vemurafenib Plexxikon)---/步骤3", "reactants": ["Nc1ncc(-c2ccc(Cl)cc2)cc1I"], "products": ["CCOC=Cc1cc(-c2ccc(Cl)cc2)cnc1N"]}
-{"filename": "Zelboraf (Vemurafenib Plexxikon)---/步骤4", "reactants": ["CCOC=Cc1cc(-c2ccc(Cl)cc2)cnc1N"], "products": ["Clc1ccc(-c2cnc3[nH]ccc3c2)cc1"]}
-{"filename": "Zelboraf (Vemurafenib Plexxikon)---/步骤5", "reactants": ["Clc1ccc(C2=CC3C=CNC3N=C2)cc1"], "products": ["CCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(Cl)cc4)cc23)c1F"]}

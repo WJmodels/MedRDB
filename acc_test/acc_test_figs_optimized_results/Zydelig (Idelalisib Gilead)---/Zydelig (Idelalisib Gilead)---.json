@@ -1,0 +1,6 @@
+{"filename": "Zydelig (Idelalisib Gilead)---/步骤1", "reactants": ["OC(=O)c1c(F)cccc1[N+](=O)[O-]"], "products": ["O=C(Cl)c1c(F)cccc1[N+](=O)[O-]"]}
+{"filename": "Zydelig (Idelalisib Gilead)---/步骤2", "reactants": ["O=C(Cl)c1c(F)cccc1[N+](=O)[O-]"], "products": ["O=C(Nc1ccccc1)c1c(F)cccc1[N+](=O)[O-]"]}
+{"filename": "Zydelig (Idelalisib Gilead)---/步骤3", "reactants": ["O=C(Nc1ccccc1)c1c(F)cccc1[N+](=O)[O-]"], "products": ["CC[C@H](NC(=O)OC(C)(C)C)C(=O)N(C(=O)c1c(F)cccc1[N+](=O)[O-])c1ccccc1"]}
+{"filename": "Zydelig (Idelalisib Gilead)---/步骤4", "reactants": ["CC[C@H](NC(=O)OC(C)(C)C)C(=O)N(C(=O)c1c(F)cccc1[N+](=O)[O-])c1ccccc1"], "products": ["CC[C@H](NC(=O)OC(C)(C)C)c1nc2cccc(F)c2c(=O)n1-c1ccccc1"]}
+{"filename": "Zydelig (Idelalisib Gilead)---/步骤5", "reactants": ["CC[C@H](NC(=O)OC(C)(C)C)c1nc2cccc(F)c2c(=O)n1-c1ccccc1"], "products": ["CC[C@H](N)c1nc2cccc(F)c2c(=O)n1-c1ccccc1"]}
+{"filename": "Zydelig (Idelalisib Gilead)---/步骤6", "reactants": ["CC[C@H](N)c1nc2cccc(F)c2c(=O)n1-c1ccccc1"], "products": ["CC[C@H](Nc1ncnc2[nH]cnc12)c1nc2cccc(F)c2c(=O)n1-c1ccccc1"]}

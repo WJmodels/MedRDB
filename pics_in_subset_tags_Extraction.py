@@ -119,6 +119,6 @@ def process_images_and_save_results(image_directory, results_directory):
     print('Finished processing and saving all data to JSON.')
 
 # 使用函数
-image_directory = "/home/sunhnayu/jupyterlab/XXI/img2smiles_xuexi/img2smiles/notebook/data/pep_example"
-results_directory = "/home/sunhnayu/jupyterlab/XXI/img2smiles_xuexi/img2smiles/notebook/data/pep_example_results"
+image_directory = "image_directory"
+results_directory = "results_directory"
 process_images_and_save_results(image_directory, results_directory)

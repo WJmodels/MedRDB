@@ -1,0 +1,6 @@
+{"filename": "Yohimbane (Gellman 2020)---Gellman/步骤1", "reactants": ["C1CCC=CCC1"], "products": ["COC(CCCCCC=O)OC"]}
+{"filename": "Yohimbane (Gellman 2020)---Gellman/步骤2", "reactants": ["COC(CCCCCC=O)OC"], "products": ["COC(CCCCCC=CC(=O)OC)OC"]}
+{"filename": "Yohimbane (Gellman 2020)---Gellman/步骤4", "reactants": ["COC(=O)C=CCCCCCC=O"], "products": ["COC(=O)C[C@@H]1CCCC[C@H]1C=O"]}
+{"filename": "Yohimbane (Gellman 2020)---Gellman/步骤5", "reactants": ["COC(=O)C[C@@H]1CCCC[C@H]1C=O"], "products": ["COC(=O)C[C@@H]1CCCC[C@H]1C=NCCc1c[nH]c2ccccc12"]}
+{"filename": "Yohimbane (Gellman 2020)---Gellman/步骤6", "reactants": ["COC(=O)C[C@@H]1CCCC[C@H]1C=NCCc1c[nH]c2ccccc12"], "products": ["O=C1C[C@@H]2CCCC[C@H]2CN1CCc1c[nH]c2ccccc12"]}
+{"filename": "Yohimbane (Gellman 2020)---Gellman/步骤7", "reactants": ["O=C1C[C@@H]2CCCC[C@H]2CN1CCc1c[nH]c2ccccc12"], "products": ["[H][C@@]12CCCC[C@@]1([H])C[C@@]1([H])c3[nH]c4ccccc4c3CCN1C2"]}

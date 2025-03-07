@@ -1,5 +1,5 @@
 # MedRDB Requirements:
-torch
+torch<br>
 numpy>=1.19.5
 pandas>=1.2.4
 Pillow==9.5.0

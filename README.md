@@ -1,6 +1,8 @@
 # MedRDB Requirements:
 torch
+
 numpy>=1.19.5
+
 pandas>=1.2.4
 Pillow==9.5.0
 matplotlib>=3.5.3

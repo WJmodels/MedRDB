@@ -13,4 +13,4 @@ easyocr>=1.6.2 <br>
 
 After installing required packages into the corresponding virtual environments, replace the original folder with the 'molscribe' folder in the list, <br>
 and download the folders 'script' and 'checkpoints', as well as the Python file pics_in_subset_tags_Extraction.py, to the installation directory. <br>
-Executing the py file can extract reaction images from the corresponding folders.
+Executing the py file pics_in_subset_tags_Extraction.py can extract reaction images from the corresponding folders.
